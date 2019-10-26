@@ -1,1 +1,1 @@
-# Solar System simulation
+# Solar System Simulation
